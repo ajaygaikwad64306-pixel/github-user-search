@@ -41,16 +41,6 @@ A modern React application that integrates the GitHub public REST API to search 
 
 ---
 
-## 📸 Screenshots
-
-Output
-
----
-
-## 🚀 Live Demo
-
-_Add deployed link (Vercel / Netlify)_
-
 ---
 
 ## ⚙️ Installation & Run Locally
